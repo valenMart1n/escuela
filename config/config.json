@@ -1,24 +1,24 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "escuela",
-    "host": "127.0.0.1",
+    "username": "322666_admin",
+    "password": "toreto178",
+    "database": "tareas-api_db",
+    "host": "mysql-tareas-api.alwaysdata.net",
     "dialect": "mysql"
   },
   "test": 
-    {
-      "username": "root",
-      "password": null,
-      "database": "escuela",
-      "host": "127.0.0.1",
-      "dialect": "mysql"
-    },
+  {
+    "username": "322666_admin",
+    "password": "toreto178",
+    "database": "tareas-api_db",
+    "host": "mysql-tareas-api.alwaysdata.net",
+    "dialect": "mysql"
+  },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "escuela",
-    "host": "127.0.0.1",
+    "username": "322666_admin",
+    "password": "toreto178",
+    "database": "tareas-api_db",
+    "host": "mysql-tareas-api.alwaysdata.net",
     "dialect": "mysql"
   }
 }
