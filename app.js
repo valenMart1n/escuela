@@ -11,7 +11,7 @@ app.use(express.urlencoded({extended:false}));
 app.use(methodOverride('_method'));
 app.use(express.static("public"));
 
-app.use("/api", api);
+app.use("/", api);
 
 const port = process.env.PORT || 3030;
 app.listen(port, () => console.log(`Servidor Abierto en puerto ${port}`));
